@@ -43,7 +43,7 @@ All models are evaluated on:
 
   > “More model complexity doesn’t help when data has weak predictive signal.”
 
-For full analysis, visualisations, and literature review, see the report in the `/report` folder.
+For full analysis, visualisations, and literature review, see the report 
 
 ---
 
