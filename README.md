@@ -52,11 +52,9 @@ For full analysis, visualisations, and literature review, see the report in the 
 ```
 stock-price-prediction-deep-learning/
 │
-├── notebooks/
-│   └── DL.ipynb                 # full code, training, evaluation, plots
+├──DL.ipynb                 # full code, training, evaluation, plots
 │
-├── report/
-│   └── deep_learning_report.pdf # full research report (cleaned version)
+├── stock-price-prediction-report.docx # full research report 
 │
 └── README.md
 ```
