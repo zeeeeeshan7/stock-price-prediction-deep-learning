@@ -1,6 +1,6 @@
 
 
-# 📘 **Stock Price Prediction Using Deep Learning & Baseline Models**
+# **Stock Price Prediction Using Deep Learning & Baseline Models**
 
 This project explores the effectiveness of deep learning models—specifically LSTM architectures—compared to traditional baselines for **next-day stock price prediction** using daily OHLCV data from AAPL, AMZN, and QCOM (2010–2025).
 
@@ -8,7 +8,7 @@ It evaluates whether increased model complexity leads to better predictive perfo
 
 ---
 
-## 🚀 **Project Overview**
+## **Project Overview**
 
 The project investigates:
 
@@ -33,7 +33,7 @@ All models are evaluated on:
 
 ---
 
-## 🧠 **Key Findings**
+## **Key Findings**
 
 * **Linear regression outperformed all LSTM models** in predicting price direction (≈52% DA).
 * LSTM variants plateaued early (2–3 epochs), showing minimal ability to capture deeper structures.
@@ -47,7 +47,7 @@ For full analysis, visualisations, and literature review, see the report
 
 ---
 
-## 📂 **Repository Structure**
+## **Repository Structure**
 
 ```
 stock-price-prediction-deep-learning/
@@ -61,7 +61,7 @@ stock-price-prediction-deep-learning/
 
 ---
 
-## 📊 **Dataset**
+## **Dataset**
 
 * Daily OHLCV prices for AAPL, AMZN, QCOM
 * Source: Yahoo Finance (2010–2025)
@@ -77,7 +77,7 @@ Prediction horizon: **next-day close**
 
 ---
 
-## 🧪 **Methods**
+## **Methods**
 
 ### **1. Data Preprocessing**
 
@@ -104,7 +104,7 @@ Prediction horizon: **next-day close**
 
 ---
 
-## 📈 **Results Summary**
+## **Results Summary**
 
 | Model             | RMSE        | Directional Accuracy |
 | ----------------- | ----------- | -------------------- |
@@ -118,7 +118,7 @@ Full charts in the report and notebook.
 
 ---
 
-## 📌 **Conclusion**
+## **Conclusion**
 
 Traditional models performed as well as, or better than, deep learning for daily stock forecasting due to the weak predictive signal in OHLCV data.
 Future improvements require:
@@ -130,7 +130,7 @@ Future improvements require:
 
 ---
 
-## 📄 **Full Report**
+## **Full Report**
 
 A detailed research report covering:
 
